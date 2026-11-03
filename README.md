@@ -1,4 +1,4 @@
-# UCM02 – Mathematical Foundations of Computer Science
+# UCM0201 – Mathematical Foundations of Computer Science
 
 ### Python Laboratory Experiments | Experiments 1–18
 
@@ -215,7 +215,7 @@ The programs are intended to demonstrate the practical application of mathematic
 ---
 
 <p align="center">
-  <strong>UCM02 – Mathematical Foundations of Computer Science</strong>
+  <strong>UCM0201 – Mathematical Foundations of Computer Science</strong>
   <br>
   Learning Mathematics Through Python Programming
 </p>
