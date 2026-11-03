@@ -10,7 +10,7 @@
 
 ## 📌 About the Repository
 
-This repository contains the Python implementations and corresponding experiment outputs for all **18 laboratory experiments** of **UCM02 – Mathematical Foundations of Computer Science**.
+This repository contains the Python implementations and corresponding experiment outputs for all **18 laboratory experiments** of **UCM0201 – Mathematical Foundations of Computer Science**.
 
 The experiments demonstrate how mathematical concepts are applied to computational problems through practical Python programs. They cover mathematical logic, set theory, functions, relations, recurrence relations, recursion, graph algorithms and tree structures.
 
